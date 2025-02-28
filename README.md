@@ -1,4 +1,4 @@
-# Maano Laravel Part 3
+# Ma-año Laravel Part 3
 
 This repository contains two Laravel applications:
 
